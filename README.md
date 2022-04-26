@@ -32,7 +32,7 @@
 * 在仓库`Settings->Secrets`中添加 `TELEGRAM_CHAT_ID, TELEGRAM_TOKEN `可推送编译结果到`Telegram Bot`
 
 
-#### 使用方式（三选一）：
+#### 使用方式：
 
 1. 先cd进package目录，然后执行
 
