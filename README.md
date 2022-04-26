@@ -1,11 +1,6 @@
 <div align="center">
-<h1 align="center">自用稳定OpenWRT仓库——网络收集</h1>
+<h1 align="center">自用修改OpenWrt仓库——源于网络收集</h1>
 </div>
-
-
-#### djpackage
-
-*  自用常用OpenWrt软件包源码合集，同步上游更新！
 
 *  感谢github仓库所有创作者！
 
