@@ -2,6 +2,9 @@
 <h1 align="center">自用修改OpenWrt仓库——源于网络收集</h1>
 </div>
 
+原：源地址
+https://github.com/thinktip/luci-theme-neobird
+
 *  感谢github仓库所有创作者！
 
 #### 使用方式：
