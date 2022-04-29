@@ -5,6 +5,7 @@
 原：源地址
 
 https://github.com/thinktip/luci-theme-neobird
+https://github.com/coolsnowwolf/luci
 
 *  感谢github仓库所有创作者！
 
